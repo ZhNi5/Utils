@@ -9,9 +9,9 @@ public class Main {
         Utils.check(0,0,3);
         System.out.println("0,0,0");
         Utils.check(0,0,0);
+        
         System.out.println("28,2");
         Utils.checkDayAndMonth(28,2);
-
         System.out.println("29,2");
         Utils.checkDayAndMonth(29,2);
         System.out.println("30,2");
