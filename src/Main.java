@@ -18,6 +18,8 @@ public class Main {
         Utils.checkDayAndMonth(30,2);
         System.out.println("1,1");
         Utils.checkDayAndMonth(1,1);
+        System.out.println("15,32");
+        Utils.checkDayAndMonth(15,32);
 
     }
 }
